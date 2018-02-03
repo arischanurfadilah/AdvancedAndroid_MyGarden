@@ -1,6 +1,9 @@
 # My Garden
-Android AppWidgets lesson
-
+Android AppWidgets lesson <br>
+<br>
+Nama : Arischa Nur Fadilah<br>
+Kelas : XII RPL 4<br>
+No. Absen : 03 <br>
 ## The app
 My Garden is a simple game that allows you to add plants to your garden and keep them alive by watering them on time.
 The app illustrates the power of widgets and collection widgets by making it easier for the user to monitor and water their plants from the home screen
