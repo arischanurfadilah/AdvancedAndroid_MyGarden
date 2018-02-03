@@ -16,7 +16,9 @@
             <meta-data
                 android:name="android.appwidget.provider"
                 android:resource="@xml/plant_widget_info" />
-        '</receiver>
+        </receiver>
+
+        <service android:name=".PlantWateringService" />
 
         <provider
             android:name=".provider.PlantContentProvider"
